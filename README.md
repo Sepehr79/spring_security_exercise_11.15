@@ -1,5 +1,11 @@
 ## Spring security in action
 
+**EXERCISE**: Implement the business logic server with the first approach
+described and presented in figure 11.15
+
+![authentication](./pictures/3level_authentication.png)
+
+--------------------------------------------------------------------------
 1. `curl -I http://localhost:8080/ -H "user: user" -H "pass: 1234" `
    ![image1](./pictures/1.jpg)
 
